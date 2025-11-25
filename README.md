@@ -2,8 +2,6 @@
 
 ### A passionate developer from Shumen, Bulgaria.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=P4radis3&label=Profile views&color=0e75b6&style=flat" alt="P4radis3" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=P4radis3" alt="P4radis3" /></a> </p>
 
 - 🔭 I'm currently working on **E‑Commerce website, built with Next.js and Supabase.**
