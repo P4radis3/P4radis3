@@ -2,7 +2,7 @@
 
 ### A passionate developer from Shumen, Bulgaria.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=P4radis3" alt="P4radis3" /></a> </p>
+<p align="left"> <a href="https://trophy.ryglcloud.net/?username=P4radis3&theme=darkhub"><img src="https://trophy.ryglcloud.net/?username=P4radis3&theme=darkhub" alt="P4radis3" /></a> </p>
 
 - 🔭 I'm currently working on **E‑Commerce website, built with Next.js and Supabase.**
 
